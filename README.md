@@ -80,10 +80,10 @@ Le modèle et le tableau de bord ont été conçus comme s’ils étaient destin
 ## 📸 Aperçu du dashboard
 
 **Page principale – Suivi global des ventes :**  
-![Dashboard Overview](./images/dashboard_overview.png)
+![Dashboard Overview](./Images/Page_principal_suivi_ventes.png)
 
 **Page secondaire – Commandes annulées :**  
-![Cancelled Orders](./images/cancelled_orders.png)
+![Cancelled Orders](./Images/Page_secondaire_Commande_annulées.png)
 
 ---
 
@@ -98,7 +98,7 @@ Le modèle et le tableau de bord ont été conçus comme s’ils étaient destin
 
 ## 🔍 Comment visualiser le rapport
 
-1. Télécharger le fichier [`Dashboard.pbix`](./report/Dashboard.pbix)  
+1. Télécharger le fichier [`rapport_ventes.pbix`](./Rapport/rapport_ventes.pbix)  
 2. Ouvrir le fichier avec **Power BI Desktop**  
 3. Explorer les différentes pages et filtres interactifs du rapport  
 
