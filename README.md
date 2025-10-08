@@ -83,7 +83,7 @@ Le modèle et le tableau de bord ont été conçus comme s’ils étaient destin
 ![Dashboard Overview](./Images/Page_principal_suivi_ventes.PNG)
 
 **Page secondaire – Commandes annulées :**  
-![Cancelled Orders](./Images/Page_secondaire_Commande_annulées.PNG)
+![Cancelled Orders](./Images/Page_secondaire_Commandes_annulées.PNG)
 
 ---
 
